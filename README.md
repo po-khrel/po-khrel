@@ -91,7 +91,7 @@
 | Project | Description | Tech | Links |
 | :-- | :-- | :-- | :-- |
 | 💬 **Chat Application** *(in progress)* | Real-time messaging app | React, Node.js, Express, MongoDB | [Repo](https://github.com/po-khrel/YOUR_CHAT_REPO) |
-| 🛒 **QuickCart** | Full-stack e-commerce app with products, cart, auth and orders | React, Node.js, Express, MongoDB | [Repo](https://github.com/po-khrel/YOUR_QUICKCART_REPO) · [Demo](https://YOUR_QUICKCART_DEMO_URL) |
+| 🛒 **MeroBazzar** | Full-stack e-commerce app with products, cart, auth and orders | React, Node.js, Express, MongoDB | [Repo](https://github.com/po-khrel/YOUR_QUICKCART_REPO) · [Demo](https://YOUR_QUICKCART_DEMO_URL) |
 | 🧑‍💻 **Portfolio** | Personal portfolio with admin dashboard and contact form | React, Tailwind, Framer Motion | [Repo](https://github.com/po-khrel/YOUR_PORTFOLIO_REPO) · [Live](https://YOUR_PORTFOLIO_URL) |
 
 </div>
@@ -135,7 +135,7 @@
 
 <a href="https://github.com/po-khrel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:sanjayapokhrel41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://instagram.com_____s.a.n.j.y_____"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.instagram.com/______s.a.n.j.a.y______?obrf=MXFvb20yOHU3em9peg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <!-- Add when ready:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
