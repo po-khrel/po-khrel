@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=po-khrel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="./github.png" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=po-khrel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
 
 <br/><br/>
