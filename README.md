@@ -2,10 +2,10 @@
 
 <img src="./assets/coding-cat.gif" alt="Coding cat" width="220" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Sanjaya%20Pokhrel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Nepal&descSize=18&descAlignY=60" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Sanjaya%20Pokhrel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Nepal&descSize=18&descAlignY=60" width="100%" alt="Header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Hi+%F0%9F%91%8B+I+am+Sanjaya+Pokhrel;Frontend+Developer+from+Nepal;React+%7C+JavaScript+%7C+TypeScript;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=45&lines=Hi+%F0%9F%91%8B+I+am+Sanjaya+Pokhrel;Full+Stack+Developer+from+Nepal;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Learning+TypeScript+and+Next.js;Building+a+real-time+Chat+Application" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,6 +17,13 @@
 </div>
 
 ---
+<p align="center">
+  <img
+    src="./coding-cat.gif"
+    width="100%"
+    alt="Animated coding banner"
+  />
+</p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
@@ -24,11 +31,10 @@
   <tr>
     <td valign="middle" width="62%">
 
-- 💻 Frontend developer who loves clean UI, performance, and modern web tech
-- 🚀 I build responsive, accessible, user-friendly web applications
-- ⚛️ Main tools: **React**, **JavaScript**, **TypeScript**, **Tailwind CSS**
-- 🔧 Comfortable on the backend too: **Node.js**, **Express**, **MongoDB**
-- 🌱 Currently leveling up in TypeScript, testing, and system design
+- 🔭 Currently building a **Chat Application**
+- 🌱 Currently learning **TypeScript** and **Next.js**
+- 💬 Ask me about **React, Node.js, Express and the MERN stack**
+- 🚀 I build responsive, accessible, user-friendly web apps from UI to database
 - 🤝 Open to collaboration, internships, and freelance work
 - 📂 All my projects: [GitHub Repositories](https://github.com/po-khrel?tab=repositories)
 - 📫 Reach me at [sanjayapokhrel41@gmail.com](mailto:sanjayapokhrel41@gmail.com)
@@ -42,17 +48,29 @@
 
 ---
 
+<h2 align="center">⚡ Currently</h2>
+
+<div align="center">
+
+| 🔭 Building | 🌱 Learning | 🎯 Next goal |
+| :-: | :-: | :-: |
+| Real-time Chat Application | TypeScript · Next.js | Ship it, deploy it, write about it |
+
+</div>
+
+---
+
 <h2 align="center">🛠️ Languages and Tools</h2>
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,python&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,python&theme=dark" alt="Languages" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" alt="Frontend" />
 
 **Backend & Database**
 
@@ -72,9 +90,9 @@
 
 | Project | Description | Tech | Links |
 | :-- | :-- | :-- | :-- |
+| 💬 **Chat Application** *(in progress)* | Real-time messaging app | React, Node.js, Express, MongoDB | [Repo](https://github.com/po-khrel/YOUR_CHAT_REPO) |
 | 🛒 **QuickCart** | Full-stack e-commerce app with products, cart, auth and orders | React, Node.js, Express, MongoDB | [Repo](https://github.com/po-khrel/YOUR_QUICKCART_REPO) · [Demo](https://YOUR_QUICKCART_DEMO_URL) |
 | 🧑‍💻 **Portfolio** | Personal portfolio with admin dashboard and contact form | React, Tailwind, Framer Motion | [Repo](https://github.com/po-khrel/YOUR_PORTFOLIO_REPO) · [Live](https://YOUR_PORTFOLIO_URL) |
-| ⚡ **Next project** | One line about what it does | Your stack | [Repo](https://github.com/po-khrel/YOUR_REPO) |
 
 </div>
 
@@ -121,30 +139,28 @@
 
 <a href="https://github.com/po-khrel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:sanjayapokhrel41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://fb.com/sonjoy%20pokhrel"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/sanjaya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <!-- Add when ready:
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 -->
 
-</div>
+<br/><br/>
 
----
-
-<h2 align="center">💖 Support Me</h2>
-
-<div align="center">
-
-<a href="https://ko-fi.com/Po-khrel">
-  <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" />
-</a>
+<p align="center">
+  <img
+    src="./code-minds.gif"
+    width="100%"
+    alt="Animated coding banner"
+  />
+</p>
 
 <br/><br/>
 
 💫 **Thanks for visiting my profile!**
 ⭐ Feel free to explore my repositories and connect with me.
 
-<img src="Y2lkPTc5MGI3NjExYnpmemZnMzBjZXpmMmR4N3E1ZGpxc2ZpcnkwYmdwaXR3Y2xrcW5zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
