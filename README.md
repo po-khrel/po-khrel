@@ -103,7 +103,7 @@
 <div align="center">
 
 <img width="49%" src="./github.png" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=po-khrel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" alt="Top Languages" />
+<img width="38%" src="./language.png" alt="Top Languages" />
 
 <br/><br/>
 
@@ -111,13 +111,9 @@
 
 </div>
 
----
 
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=po-khrel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Profile Trophy" width="100%" />
-</div>
+
 
 ---
 
